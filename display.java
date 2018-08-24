@@ -6,7 +6,7 @@ public class display {
 		Scanner reader = new Scanner(System.in); 
 		System.out.println("Enter your name : ");
 		String name = reader.next();
-		System.out.println("Enter your adress : ");
+		System.out.println("Enter your address : ");
                 String address = reader.next();
 
 		System.out.println(" your name is : " + name +" and your address" + address);
